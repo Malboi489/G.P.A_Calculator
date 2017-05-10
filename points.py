@@ -1,4 +1,4 @@
-x = float(input("Coefficent of x^2: "))
+x = float(input("Coefficent of x^2: ")) 
 x1 = float(input("Coefficent of x: "))
 x2 = float(input("Number adding on: "))
 vertex1 = x2
