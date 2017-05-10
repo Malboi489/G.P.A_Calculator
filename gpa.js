@@ -1,4 +1,4 @@
 var grade;
 function start(){
-  grade = 
+  grade = readLine("Grade");
 }
